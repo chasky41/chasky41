@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Charaf-Eddine Berhili</h1>
-<h3 align="center">A passionate developer</h3>
+  <img src="https://media.tenor.com/BGjri8kasI8AAAAC/pepe-hack.gif" alt="coding" width="100%" height="100%">
 
-- 🌱 I’m currently learning **3 éme année cycle d'ingenieur**
+<h3 align="center"> Développeur passionné.</h3>
 
-- 👨‍💻 All of my projects are available at [not yet](not yet)
+🌱 Je suis actuellement en train d'apprendre en troisième année du cycle d'ingénieur.
 
-- 💬 Ask me about **js . reactjs . python . html .css .Bootstrap. Php. Laravel**
+👨‍💻 Tous mes projets sont disponibles à [pas encore](pas encore).
 
-- 📫 How to reach me **berhili.charafeddine33@gmail.com**
+💬 Posez-moi des questions sur JavaScript, ReactJS, Python, HTML, CSS, Bootstrap, PHP et Laravel.
+
+📫 Vous pouvez me contacter à l'adresse berhili.charafeddine33@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt ="coding" whidth="400" src="https://media.tenor.com/gPaa5MzKJCkAAAAC/jot.gif">
+<img align="center" alt ="coding" whidth="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="100%">
 <p align="left">
 <a href="https://linkedin.com/in/charaf-eddine berhili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charaf-eddine berhili" height="30" width="40" /></a>
 </p>
